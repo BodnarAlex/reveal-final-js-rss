@@ -70,6 +70,10 @@ section.has-light-background, section.has-light-background h1, section.has-light
   font-weight: inherit;
 }
 
+img.big {
+	height: 55svh !important;
+}
+
 /*********************************************
  * HEADERS
  *********************************************/
