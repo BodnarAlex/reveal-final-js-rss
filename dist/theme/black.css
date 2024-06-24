@@ -74,8 +74,11 @@
  img.big {
 	height: 55svh !important;
 }
+img.medium {
+	height: 45svh !important;
+}
 img.small {
-	height: 30svh !important;
+	height: 25svh !important;
 }
 
 .flex_block{
@@ -89,7 +92,7 @@ img.small {
 gap: 10px;
 }
 .flex_block.min_gap img{
-  width: 70%;
+  width: 65%;
   }
 
 .izy {
